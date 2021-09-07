@@ -1,0 +1,19 @@
+.btn-flat {
+  background: $blue-curated-2;
+  color: white;
+  padding: 8px 24px;
+  border-radius: 4px;
+  transition: background 0.3s ease;
+}
+
+.btn-flat:hover {
+  background: $blue-curated-2;
+  color: white;
+}
+
+a.btn-flat {
+  background: $blue-curated-2;
+  color: white;
+  margin: 10px;
+
+}
